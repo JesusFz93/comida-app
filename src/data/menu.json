@@ -1,0 +1,21 @@
+[{
+    "id": "1",
+    "name": "CHICKEN BRR",
+    "desc": "5 boneless de pechuga de pollo bañados en salsa de su elección, queso mozzarela, tomate, lechuga y cebolla, ranch. Agrega tocino por ($15).",
+    "price": "$134",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC60zUWlS7obLwsW2OwJBBWnzBnhbJgc0F_w&usqp=CAU"
+},
+{
+    "id": "2",
+    "name": "VICTORIA BECKHAM",
+    "desc": "182 grs. de carne de res, jalapeños toreados, lechuga, tomate, cebolla, cebolla caramelizada, aderezo spicy de la casa, queso suizo y 2 pepinillos empanizados para volver loco el paladar.",
+    "price": "$149",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Zjq_K60kP_74ZT3izq95kj8syerU9iAMvg&usqp=CAU"
+},
+{
+    "id": "3",
+    "name": "APACHE",
+    "desc": "1182grs. de carne de res sobre una gordita rellena de mac n cheese frito en especies italianas, bañada en queso mozzarella y tocino.",
+    "price": "$149",
+    "image": "https://www.viajabonito.mx/wp-content/uploads/2021/06/Comida-colombiana-portada-01.jpg"
+}]

@@ -1,10 +1,13 @@
 import React from "react";
+import Routers from "./routers";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.min.js";
 
 const App = () => {
   return (
-    <div>
-      <h1>App de comida</h1>
-    </div>
+    <>
+      <Routers />
+    </>
   );
 };
 
